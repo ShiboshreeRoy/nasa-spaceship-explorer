@@ -135,6 +135,8 @@ The application uses SQLite with two main tables:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+# Download For Windows [Download](./dist/main.exe)
+
 ## Contact
 For questions or feedback, please contact:
 - Developer: Shiboshree Roy
